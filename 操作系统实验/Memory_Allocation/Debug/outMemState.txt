@@ -1,0 +1,279 @@
+dwAvailPageFile	3663351808
+dwAvailPhys	2147483647
+dwAvailVirtual	2123657216
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3662585856
+dwAvailPhys	2147483647
+dwAvailVirtual	2123644928
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3662585856
+dwAvailPhys	2147483647
+dwAvailVirtual	2123640832
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3662606336
+dwAvailPhys	2147483647
+dwAvailVirtual	2123620352
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3674087424
+dwAvailPhys	2147483647
+dwAvailVirtual	2123603968
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3674755072
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3675107328
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3674587136
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3676700672
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3676999680
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3678846976
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3678912512
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3679006720
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3678560256
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	50
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3678658560
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	50
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3678932992
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	50
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3636113408
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3636232192
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3652825088
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3661422592
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3660783616
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3660783616
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3660505088
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3658563584
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3657519104
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3658067968
+dwAvailPhys	2147483647
+dwAvailVirtual	2123583488
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3646480384
+dwAvailPhys	2147483647
+dwAvailVirtual	2123595776
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3654279168
+dwAvailPhys	2147483647
+dwAvailVirtual	2123599872
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3654279168
+dwAvailPhys	2147483647
+dwAvailVirtual	2123620352
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3639578624
+dwAvailPhys	2147483647
+dwAvailVirtual	2123636736
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+dwAvailPageFile	3592581120
+dwAvailPhys	2147483647
+dwAvailVirtual	2123657216
+dwLength	32
+dwMemoryLoad	51
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

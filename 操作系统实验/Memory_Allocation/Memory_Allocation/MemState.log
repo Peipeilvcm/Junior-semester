@@ -1,0 +1,251 @@
+              PageSize : 4096
+
+Case: PAGE_READONLY
+保留
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 1
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+提交
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 1
+                 Protect PAGE_READONLY
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+加锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 1
+                 Protect PAGE_READONLY
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+解锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 1
+                 Protect PAGE_READONLY
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+回收
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 1
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+释放
+             BaseAddress 00DA0000
+          AllocationBase 00000000
+       AllocationProtect PAGE_UNKNOWN
+   RegionSize / PageSize 16
+                 Protect PAGE_NOACCESS
+                   State MEM_FREE
+                    Type MEM_UNKNOWN_TYPE
+
+Case: PAGE_READWRITE
+保留
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 2
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+提交
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 2
+                 Protect PAGE_READWRITE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+加锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 2
+                 Protect PAGE_READWRITE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+解锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 2
+                 Protect PAGE_READWRITE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+回收
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 2
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+释放
+             BaseAddress 00DA0000
+          AllocationBase 00000000
+       AllocationProtect PAGE_UNKNOWN
+   RegionSize / PageSize 16
+                 Protect PAGE_NOACCESS
+                   State MEM_FREE
+                    Type MEM_UNKNOWN_TYPE
+
+Case: PAGE_EXECUTE
+保留
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 3
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+提交
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 3
+                 Protect PAGE_EXECUTE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+加锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 3
+                 Protect PAGE_EXECUTE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+解锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 3
+                 Protect PAGE_EXECUTE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+回收
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 3
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+释放
+             BaseAddress 00DA0000
+          AllocationBase 00000000
+       AllocationProtect PAGE_UNKNOWN
+   RegionSize / PageSize 16
+                 Protect PAGE_NOACCESS
+                   State MEM_FREE
+                    Type MEM_UNKNOWN_TYPE
+
+Case: PAGE_EXECUTE_READ
+保留
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 4
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+提交
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 4
+                 Protect PAGE_EXECUTE_READ
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+加锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 4
+                 Protect PAGE_EXECUTE_READ
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+解锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 4
+                 Protect PAGE_EXECUTE_READ
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+回收
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 4
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+释放
+             BaseAddress 00DA0000
+          AllocationBase 00000000
+       AllocationProtect PAGE_UNKNOWN
+   RegionSize / PageSize 16
+                 Protect PAGE_NOACCESS
+                   State MEM_FREE
+                    Type MEM_UNKNOWN_TYPE
+
+Case: PAGE_EXECUTE_READWRITE
+保留
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 5
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+提交
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 5
+                 Protect PAGE_EXECUTE_READWRITE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+加锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 5
+                 Protect PAGE_EXECUTE_READWRITE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+解锁
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 5
+                 Protect PAGE_EXECUTE_READWRITE
+                   State MEM_COMMIT
+                    Type MEM_PRIVATE
+回收
+             BaseAddress 00DA0000
+          AllocationBase 00DA0000
+       AllocationProtect PAGE_NOACCESS
+   RegionSize / PageSize 5
+                 Protect PAGE_UNKNOWN
+                   State MEM_RESERVE
+                    Type MEM_PRIVATE
+释放
+             BaseAddress 00DA0000
+          AllocationBase 00000000
+       AllocationProtect PAGE_UNKNOWN
+   RegionSize / PageSize 16
+                 Protect PAGE_NOACCESS
+                   State MEM_FREE
+                    Type MEM_UNKNOWN_TYPE

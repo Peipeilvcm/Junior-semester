@@ -1,0 +1,38 @@
+code segment
+	assume cs:code
+start:
+lp0:	mov dx,298h
+	out dx,al
+	in al,dx
+	nop
+	mov bl,al
+	shr al,4
+	call sonpro
+	and bl,0fh
+	mov al,bl
+	call sonpro
+ 	call sss	
+exit:
+	mov ax,4c00h
+	int 21h
+sonpro proc near
+	mov dl,al
+	cmp dl,9
+	ja lp1
+	jna lp2
+lp1:	add dl,7
+	jmp lp2
+lp2:	add dl,30h
+	mov ah,02h
+	int 21h
+	ret
+sonpro endp	
+sss proc near
+	mov ah,1
+	int 16h 
+	jnz exit
+	jz lp0
+	ret
+sss endp
+code ends
+end start

@@ -1,0 +1,11 @@
+ code segment
+assume cs:code 
+start:mov dx,290h
+lp0:mov al,0
+lp1:out dx,al
+inc al
+jnz lp1
+mov al,0 
+jmp lp0
+code ends
+end start

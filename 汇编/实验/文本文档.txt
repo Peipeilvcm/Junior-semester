@@ -1,0 +1,63 @@
+data segment
+MESS db'Please input the keyword!',0ah,0dh,'$'
+data ends
+
+code segment
+assume cs:code,ds:data 
+start:
+mov ds,ax
+mov dx,283h      ;初始化8254
+xor al,al        ;软复位
+out dx,al
+mov al,40h
+out dx,al
+mov al,16h       ;方式3
+out dx,al
+mov dx,280h
+mov al,10        ;计数器初值10
+out dx,al
+
+mov dx,2b9h      ;初始化8251
+xor al,al        ;软复位
+out dx,al
+mov al,40h
+out dx,al
+mov al,4dh       ;波特因子x1
+out dx,al
+mov al,27h
+out dx,al
+mov dx,offset MESS
+mov ah,09h
+int 21
+WAIT1:
+mov dx,2B9h
+in al,dx
+test al,01       ;发送是否准备好
+jz WAIT1
+mov ah,01
+int 21h
+cmp al,27
+jz exit
+mov dx,2b8h
+add al,1
+out dx,al
+mov cx,40h
+DELAY:
+LOOP DELAY
+WAIT2:
+mov dx,2b9h
+in al,dx
+test AL,02    ;接受是否准备好
+jz WAIT2
+mov dx,2b8h
+in al,dx
+mov dl,al
+mov ah,02
+int 21h
+jmp WAIT1
+EXIT:
+mov ah,4ch
+int 21h
+
+code ends
+end start

@@ -1,0 +1,9 @@
+dwAvailPageFile	3273523200
+dwAvailPhys	2147483647
+dwAvailVirtual	2123657216
+dwLength	32
+dwMemoryLoad	55
+dwTotalPageFile	4294967295
+dwTotalPhys	2147483647
+dwTotalVirtual	2147352576
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
