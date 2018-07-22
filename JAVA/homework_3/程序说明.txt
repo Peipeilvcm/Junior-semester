@@ -1,0 +1,14 @@
+/**
+在cmd下输入命令，使用
+javac -encoding UTF-8 文件名(eg. javac -encoding UTF-8 Employee.java)
+解决编码GBK不可映射问题
+编译
+将6个文件都编译后，输入
+java AllTest命令
+运行
+*/
+
+/**
+10个employee实例都是随机生成，其私有特性也随机生成
+输出案例见程序运行截图
+*/
