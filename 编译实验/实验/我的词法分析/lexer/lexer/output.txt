@@ -1,0 +1,158 @@
+#include<stdio.h>	<Ô¤±àÒëÃüÁî,->
+struct	<struct,->
+p	<ID,0>
+{	<bound_op,{>
+int	<int,->
+a	<ID,1>
+;	<bound_op,;>
+int	<int,->
+b	<ID,2>
+;	<bound_op,;>
+}	<bound_op,}>
+P	<ID,3>
+int	<int,->
+main	<ID,4>
+(	<bound_op,(>
+)	<bound_op,)>
+{	<bound_op,{>
+int	<int,->
+a	<ID,1>
+=	<assign_op,=>
+0	<NUM,0>
+;	<bound_op,;>
+a	<ID,1>
+=	<assign_op,=>
++	<arith_op,+>
+1	<NUM,1>
+;	<bound_op,;>
+char	<char,->
+b	<ID,2>
+=	<assign_op,=>
+'a'	<CONST CHAR,'a'>
+;	<bound_op,;>
+b	<ID,2>
+=	<assign_op,=>
+b	<ID,2>
+=	<assign_op,=>
+;	<bound_op,;>
+int	<int,->
+++	<arith_op,++>
+a	<ID,1>
+;	<bound_op,;>
+char	<char,->
+[	<bound_op,[>
+21	<NUM,21>
+]	<bound_op,]>
+c	<ID,5>
+=	<assign_op,=>
+a	<ID,1>
+int	<int,->
+c	<ID,5>
+;	<bound_op,;>
+c	<ID,5>
+^=	<assign_op,^=>
+b	<ID,2>
+;	<bound_op,;>
+b	<ID,2>
+=	<assign_op,=>
+c	<ID,5>
+^	<bitwise_op,^>
+a	<ID,1>
+;	<bound_op,;>
+int	<int,->
+p	<ID,0>
+[	<bound_op,[>
+10	<NUM,10>
+]	<bound_op,]>
+;	<bound_op,;>
+a	<ID,1>
+>>	<bitwise_op,>>>
+2	<NUM,2>
+;	<bound_op,;>
+a	<ID,1>
++=	<assign_op,+=>
+2	<NUM,2>
+;	<bound_op,;>
+if	<if,->
+(	<bound_op,(>
+a	<ID,1>
+<=	<relop,LE>
+2	<NUM,2>
+)	<bound_op,)>
+printf	<ID,6>
+(	<bound_op,(>
+"sad%cd"	<CONST STRING,"sad%cd">
+,	<bound_op,,>
+b	<ID,2>
+)	<bound_op,)>
+;	<bound_op,;>
+b	<ID,2>
+--	<arith_op,-->
+;	<bound_op,;>
+char	<char,->
+*	<arith_op,*>
+ptr	<ID,7>
+;	<bound_op,;>
+P	<ID,3>
+->	<other_op,->>
+b	<ID,2>
+;	<bound_op,;>
+int	<int,->
+m	<ID,8>
+=	<assign_op,=>
+(	<bound_op,(>
+a	<ID,1>
+==	<relop_op,EQ>
+2	<NUM,2>
+)	<bound_op,)>
+?	<other_op,?>
+b	<ID,2>
+:	<other_op,:>
+c	<ID,5>
+;	<bound_op,;>
+string	<ID,9>
+=	<assign_op,=>
+"sadad"	<CONST STRING,"sadad">
+;	<bound_op,;>
+char	<char,->
+d	<ID,10>
+=	<assign_op,=>
+'s'	<CONST CHAR,'s'>
+;	<bound_op,;>
+d	<ID,10>
+=	<assign_op,=>
+'\t'	<CONST CHAR,'\t'>
+;	<bound_op,;>
+return	<return,->
+0	<NUM,0>
+;	<bound_op,;>
+}	<bound_op,}>
+-----------------------------
+- Statistics:
+totoal line numbers: 37
+total char Sum:359
+total word Sum:86
+---
+relation operator: 2
+assign operator:13
+logic operator:0
+bound operator:39
+arith operator:4
+bitwise operator:2
+other operator:3
+---
+keyword Sum:15
+const numbers: 9
+const strings: 2
+ids:36
+kinds of ids:11
+-----------------------------
+- Errors:
+line	Error
+9	[Error]$  Invalid character
+11	[Error]'az;  The const char is wrong!
+12	[Error]'\z'  The const char is wrong!
+14	[Error]"aad  The const string lose a " wrongly!
+15	[Error]";  The const string lose a " wrongly!
+37	[Error]/  The last line is wrong.
+Çë°´ÈÎÒâ¼ü¼ÌÐø. . . 

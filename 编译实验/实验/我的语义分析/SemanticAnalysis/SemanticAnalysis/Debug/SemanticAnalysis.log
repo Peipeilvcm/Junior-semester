@@ -1,0 +1,5 @@
+﻿  SemanticAnalysis.cpp
+d:\学习\大三上\编译原理\我的语义分析\semanticanalysis\semanticanalysis\semanticanalysis.cpp(529): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大三上\编译原理\我的语义分析\semanticanalysis\semanticanalysis\semanticanalysis.cpp(567): warning C4018: “<”: 有符号/无符号不匹配
+  SemanticAnalysis.vcxproj -> D:\学习\大三上\编译原理\我的语义分析\SemanticAnalysis\Debug\SemanticAnalysis.exe
+  SemanticAnalysis.vcxproj -> D:\学习\大三上\编译原理\我的语义分析\SemanticAnalysis\Debug\SemanticAnalysis.pdb (Full PDB)

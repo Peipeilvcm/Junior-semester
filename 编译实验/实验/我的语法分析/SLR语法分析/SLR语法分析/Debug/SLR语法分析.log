@@ -1,0 +1,8 @@
+﻿  SLR_parser.cpp
+d:\学习\大三上\编译原理\我的语法分析\slr语法分析\slr语法分析\slr_parser.cpp(391): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大三上\编译原理\我的语法分析\slr语法分析\slr语法分析\slr_parser.cpp(413): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大三上\编译原理\我的语法分析\slr语法分析\slr语法分析\slr_parser.cpp(446): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大三上\编译原理\我的语法分析\slr语法分析\slr语法分析\slr_parser.cpp(449): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大三上\编译原理\我的语法分析\slr语法分析\slr语法分析\slr_parser.cpp(452): warning C4018: “<”: 有符号/无符号不匹配
+  SLR语法分析.vcxproj -> D:\学习\大三上\编译原理\我的语法分析\SLR语法分析\Debug\SLR语法分析.exe
+  SLR语法分析.vcxproj -> D:\学习\大三上\编译原理\我的语法分析\SLR语法分析\Debug\SLR语法分析.pdb (Full PDB)
