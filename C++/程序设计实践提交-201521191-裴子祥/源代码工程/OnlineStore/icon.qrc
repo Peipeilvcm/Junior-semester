@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/timg.jpg</file>
+        <file>icon/kobe.jpg</file>
+        <file>icon/kobe2.jpg</file>
+        <file>icon/kobe3.jpg</file>
+    </qresource>
+</RCC>

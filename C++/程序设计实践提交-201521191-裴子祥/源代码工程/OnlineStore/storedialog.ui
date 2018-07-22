@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>StoreDialog</class>
+ <widget class="QDialog" name="StoreDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>780</width>
+    <height>560</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTabWidget" name="storeTabWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>740</width>
+     <height>490</height>
+    </rect>
+   </property>
+   <property name="currentIndex">
+    <number>0</number>
+   </property>
+   <widget class="QWidget" name="storePage">
+    <attribute name="title">
+     <string>商城</string>
+    </attribute>
+   </widget>
+   <widget class="QWidget" name="cartPage">
+    <attribute name="title">
+     <string>我的购物车</string>
+    </attribute>
+   </widget>
+   <widget class="QWidget" name="userInfoPage">
+    <attribute name="title">
+     <string>我的信息</string>
+    </attribute>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

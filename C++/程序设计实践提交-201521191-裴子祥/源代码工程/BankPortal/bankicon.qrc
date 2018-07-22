@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>bankicon/pexels-photo-71269.jpeg</file>
+    </qresource>
+</RCC>
